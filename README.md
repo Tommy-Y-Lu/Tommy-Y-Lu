@@ -2,7 +2,7 @@
 
 #### An aspiring cheminformatician or an upstart junior researcher depending on your point of view.
 
-⭐ Honours student in Medicinal Chemistry @ *The University of Sydney* <br>
+⭐ '24 Honours student in Medicinal Chemistry @ *The University of Sydney* <br>
 🔬 Researching applications of *AI in Drug Discovery*
 
 <!--
