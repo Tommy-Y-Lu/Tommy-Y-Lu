@@ -1,9 +1,9 @@
 ### G'day! 👋
 
-#### An aspiring cheminformatician or an upstart junior researcher depending on your point of view.
+#### An aspiring bio/cheminformatician or an amateur unenlightened researcher depending on your point of view.
 
 ⭐ '24 Honours student in Medicinal Chemistry @ *The University of Sydney* <br>
-🔬 Researching applications of *AI in Drug Discovery*
+🔬 Researching applications of *ML in Drug Discovery*
 
 <!--
 **Tommy-Y-Lu/Tommy-Y-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
