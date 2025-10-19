@@ -1,8 +1,6 @@
 ### G'day! 👋
 
-#### An aspiring bio/cheminformatician or an amateur unenlightened researcher depending on your point of view.
-
-⭐ '24 Honours student in Medicinal Chemistry @ *The University of Sydney* <br>
+⭐ PhD candidate @ *The University of Sydney* <br>
 🔬 Researching applications of *ML in Drug Discovery*
 
 <!--
